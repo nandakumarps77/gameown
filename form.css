@@ -1,0 +1,53 @@
+.page1 {
+  padding: 34px;
+  background-color: rgb(0, 0, 0);
+  margin-left: 488px;
+  width: 470px;
+  border-radius:30px ;
+  color: white;
+}
+
+.first{
+  width: 100%px;
+  height: 100px;
+ 
+ 
+}
+.label{
+  padding-bottom: 10px;
+}
+.Register{
+background-color: blue;
+color:white;
+padding: 16px 20px;
+margin: 8px 0;
+border: none;
+cursor: pointer;
+width: 100%;
+margin-top: 20px;
+}
+.input{
+  padding: 10px;
+  width: 96%;
+  margin: 8px ;
+}
+.second{
+   width: 70%;
+   height: 100px;
+   margin-left: 185px;
+   background-color: rgb(0, 0, 0);
+   margin-bottom: 30px;
+   border-radius:70px ;
+   color: rgb(225, 215, 221);
+   text-align: center;
+   padding-top: 20px
+}
+.input1{
+  width: 90px;
+  height: 35px;
+  
+}
+.page1signin{
+  text-align: center;
+ 
+}
